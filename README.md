@@ -1,5 +1,3 @@
-# jsTutorialViaJasmine
-Teach someone to code using jasmine tests
 
 
 # Javascript Learning guide 
