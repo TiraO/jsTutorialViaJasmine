@@ -25,27 +25,34 @@ Watch out for common gotchas:
 - operator 
 - if, else, true, false
 - 
-'Hello world' Assignment
-Hello world programs are extremely simple programs that print the words "hello world"
-Why? Printing output is the simplest way to prove that technically you can run code. You have a minimal working setup. 
-As I mentioned earlier, if you have an internet browser, you have a way of running javascript. Javascript is the language of the web, and so all browsers have javascript interpreters built in. But, some browsers are more developer-friendly than others.  Firefox and Chrome both have an advanced set of developer tools that let you interact with code while it's running. I'm most familiar with chrome, so let's use that.
-Open up developer tools and go to the 'console' tab. (Go ahead and google how to do this.)
-Type: console.log('hello world');
-Press enter.
-Chrome will run your line of code through its javascript interpreter and it will print: 'hello world'
-Type: console.log(2 + 4);
-Press enter.
-Chrome will run your line of code through its javascript interpreter and it will print: 6
 
-Try something something else:
-Type: 2 + 4
-Press enter.
-Chrome will run your line of code through its javascript interpreter and it will print: 6
-Okay, what's the difference? 
+## 'Hello world' Assignment
+Hello world programs are extremely simple programs that print the words "hello world"
+
+Why? Printing output is the simplest way to prove that technically you can run code. You have a minimal working setup. 
+
+As I mentioned earlier, if you have an internet browser, you have a way of running javascript. Javascript is the language of the web, and so all browsers have javascript interpreters built in. But, some browsers are more developer-friendly than others.  Firefox and Chrome both have an advanced set of developer tools that let you interact with code while it's running. I'm most familiar with chrome, so let's use that.
+
+- Open up developer tools and go to the 'console' tab. (Go ahead and google how to do this.)
+- Type: console.log('hello world');
+- Press enter.
+- Chrome will run your line of code through its javascript interpreter and it will print: 'hello world'
+- Type: `console.log(2 + 4);`
+- Press enter.
+- Chrome will run your line of code through its javascript interpreter and it will print: `6`
+
+- Try something something else:
+- Type: `2 + 4`
+- Press enter.
+- Chrome will run your line of code through its javascript interpreter and it will print: `6`
+- Okay, what's the difference? 
 
 Running things in the console like this is a great place to try things out, but of course you won't always want to run things one line at a time. Let's go play with a more advanced example.
-Assigment
+
+## Assigment
+
 Research is your friend. 
+
 Find a simple jsfiddle example and change it.
 
 ## Glossary for week 1
